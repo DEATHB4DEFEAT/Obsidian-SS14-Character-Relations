@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Templates  -tag:#Hidden  path:People  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Family  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Person path:People/External  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Person  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#Relationship  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#Profession  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#Date  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#Placeholder  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.9960465746006,
+  "lineSizeMultiplier": 0.998266991605741,
+  "collapse-forces": true,
+  "centerStrength": 0.101001895477931,
+  "repelStrength": 17.5304630381803,
+  "linkStrength": 0.395613322502031,
+  "linkDistance": 150,
+  "scale": 0.47324478835776734,
+  "close": true
+}

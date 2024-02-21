@@ -1,0 +1,35 @@
+---
+tags:
+  - Person
+creation date: 2024-01-27 00:15
+---
+# Jack Von Kramer
+
+## Photo
+
+%%PLACEHOLDER%%
+
+## Facts
+
+`Species:` [[Human]]
+`Sex:` [[Male]] %%Sex for species with sexual dimorphism, Gender otherwise%%
+`Current Legal Name:` Jack Von [[Kramer]]
+`Previous Legal Names:` N/A
+`Preferred Name:` Jack
+`Aliases:`
+- Kramer
+`Birth Date:` 27 [[01-01]]
+`Birth Location:` N/A
+`Death Date:` N/A
+`Death Location:` N/A
+`Cause Of Death:` N/A
+`Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
+- [[Kiera]] `How:` [[Friend]]
+- [[Craig]] `How:` [[Friend]]
+- [[Eidolon]] `How:` [[Friend]]
+`Professions:` %%Favorite First%%
+- [[Lawyer]]
+
+## Description
+
+%%PLACEHOLDER%%

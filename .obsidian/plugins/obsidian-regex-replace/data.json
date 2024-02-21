@@ -1,0 +1,10 @@
+{
+  "findText": "`Death Location:` N/A",
+  "replaceText": "`Death Location:` N/A\n`Cause Of Death:` N/A",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}
