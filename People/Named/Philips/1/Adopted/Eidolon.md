@@ -16,10 +16,12 @@ creation date: 2024-01-25 22:47
 `Current Legal Name:` Eidolon Avis [[Philips]]
 `Previous Legal Names:`
 - Eidolon [[Avis]] `On:` 0 [[01-01]]
+
 `Preferred Name:` Eidolon
 `Aliases:`
 - Schizophrenia
 - Phantom
+
 `Birth Date:` N/A [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -33,6 +35,7 @@ creation date: 2024-01-25 22:47
 - [[Uxith]] `How:` [[Step Daughter]]
 - 
 - [[Jack Von Kramer]] `How:` [[Friend]]
+
 `Professions:` %%Favorite First%%
 - [[Martial Artist]]
 - [[Boxer]]

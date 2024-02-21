@@ -16,9 +16,11 @@ creation date: 2024-01-24 20:14
 `Current Legal Name:` Kiera [[Philips]]
 `Previous Legal Names:`
 - Kiera [[Maya]]
+
 `Preferred Name:` Kiera
 `Aliases:`
 - Kira
+
 `Birth Date:` 28 [[01-01]]
 `Birth Location:` [[NTRF-226]]
 `Death Date:` N/A
@@ -35,6 +37,7 @@ creation date: 2024-01-24 20:14
 - [[CHOC-010]] `How:` [[Friend]]
 - [[Jack Von Kramer]] `How:` [[Friend]]
 - [[Craig]] `How:` [[Friend]]
+
 `Professions:` %%Favorite First%%
 - [[Atmospheric Technician]]
 - [[Chief Engineer]]

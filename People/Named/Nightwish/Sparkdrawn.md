@@ -18,6 +18,7 @@ creation date: 2024-01-25 21:50
 `Preferred Name:` Spark
 `Aliases:`
 - Sparky
+
 `Birth Date:` 18 [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -25,6 +26,7 @@ creation date: 2024-01-25 21:50
 `Cause Of Death:` N/A
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 - [[Melody]] `How:` [[Friend]]
+
 `Professions:` %%Favorite First%%
 - [[Janitor]]
 

@@ -23,7 +23,9 @@ creation date: 2024-01-25 20:41
 `Death Location:` N/A
 `Cause Of Death:` N/A
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
-- [[Kiera]] `How:` [[Step Father|Step Father]]
+- [[Guadelupé]] `How:` [[Step Father]]
+- [[Kiera]] `How:` [[Step Father]]
+
 `Professions:` %%Favorite First%%
 - [[Geneticist]]
 - [[Epistemologist]]

@@ -16,6 +16,7 @@ creation date: 2024-01-25 21:53
 `Current Legal Name:` Monty [[Philips]]
 `Previous Legal Names:`
 - Monty [[Undefined]] `On:` 0 [[01-01]]
+
 `Preferred Name:` Monty
 `Aliases:` N/A
 `Birth Date:` 22 [[01-01]]
@@ -28,6 +29,7 @@ creation date: 2024-01-25 21:53
 - [[Kiera]] `How:` [[Step Son]]
 - [[Melody]] `How:` [[Step Brother]]
 - [[Alexia]] `How:` [[Step Brother]]
+
 `Professions:` %%Favorite First%%
 - [[Chef]]
 - [[Chief Service Supervisor]]

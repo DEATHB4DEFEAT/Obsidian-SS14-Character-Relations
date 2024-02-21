@@ -18,6 +18,7 @@ creation date: 2024-01-27 00:15
 `Preferred Name:` Jack
 `Aliases:`
 - Kramer
+
 `Birth Date:` 27 [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -27,6 +28,7 @@ creation date: 2024-01-27 00:15
 - [[Kiera]] `How:` [[Friend]]
 - [[Craig]] `How:` [[Friend]]
 - [[Eidolon]] `How:` [[Friend]]
+
 `Professions:` %%Favorite First%%
 - [[Lawyer]]
 

@@ -29,6 +29,7 @@ creation date: 2024-01-25 22:43
 - [[Deven]] `How:` [[Father]]
 - [[Banalz]] `How:` [[Father]]
 - [[Eidolon]] `How:` [[Step Father|Step Father]]
+
 `Professions:` N/A %%Favorite First%%
 
 ## Description

@@ -16,9 +16,11 @@ creation date: 2024-01-25 21:57
 `Current Legal Name:` Alexia Philips
 `Previous Legal Names:`
 - Alexia [[Undefined]] `On:` 0 [[01-01]]
+
 `Preferred Name:` Alexia
 `Aliases:`
 - Alex
+
 `Birth Date:` 19 [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -30,6 +32,7 @@ creation date: 2024-01-25 21:57
 - [[Kiera]] `How:` [[Step Daughter]]
 - [[Melody]] `How:` [[Step Sister]]
 - [[Monty]] `How:` [[Step Sister]]
+
 `Professions:` %%Favorite First%%
 - [[Medical Doctor|Nurse (MD)]]
 

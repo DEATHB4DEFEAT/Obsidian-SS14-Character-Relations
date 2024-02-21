@@ -18,6 +18,7 @@ creation date: 2024-01-24 22:38
 `Preferred Name:` N/A
 `Aliases:`
 - Chocolate
+
 `Birth Date:` 88 [[01-01]]
 `Birth Location:` [[NTRF-226]]
 `Death Date:` N/A
@@ -25,6 +26,7 @@ creation date: 2024-01-24 22:38
 `Cause Of Death:` N/A
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 - [[Kiera]] `How:` [[Friend]]
+
 `Professions:` %%Favorite First%%
 - [[Chef]]
 

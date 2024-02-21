@@ -18,6 +18,7 @@ creation date: 2024-01-24 22:24
 `Preferred Name:` Craig
 `Aliases:`
 - Intern
+
 `Birth Date:` 21 [[01-01]]
 `Birth Location:` Earth
 `Death Date:` N/A
@@ -26,6 +27,7 @@ creation date: 2024-01-24 22:24
 `Connected To:` %%Chronological -> Alphabetical - Significant -> Familial -> Generic%%
 - [[Kiera]] `How:` [[Friend]]
 - [[Jack Von Kramer]] `How:` [[Friend]]
+
 `Professions:` %%Favorite First%%
 - [[Central Command Official]]
 

@@ -24,6 +24,7 @@ creation date: 2024-01-25 22:04
 `Cause Of Death:` N/A
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 - [[Alexia]] `How:` [[Dating]]
+
 `Professions:` %%Favorite First%%
 - [[Bartender]]
 

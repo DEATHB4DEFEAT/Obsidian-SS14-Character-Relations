@@ -18,6 +18,7 @@ creation date: 2024-01-25 21:11
 `Preferred Name:` Parapraxis
 `Aliases:`
 - Freud
+
 `Birth Date:` 66 [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -27,6 +28,7 @@ creation date: 2024-01-25 21:11
 - [[Fear]] `How:` [[Relationships/Familial/Vertical/Son|Son]]
 - [[Interest]] `How:` [[Relationships/Familial/Vertical/Son|Son]]
 - [[Melody]] `How:` [[Relationships/Familial/Horizontal/Brother|Brother]]
+
 `Professions:` %%Favorite First%%
 - [[Psychologist]]
 

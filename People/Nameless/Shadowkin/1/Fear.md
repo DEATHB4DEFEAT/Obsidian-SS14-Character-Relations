@@ -26,6 +26,7 @@ creation date: 2024-01-25 21:20
 - [[Interest]] `How:` [[Married]]
 - [[Parapraxis]] `How:` [[Relationships/Familial/Vertical/Father|Father]]
 - [[Melody]] `How:` [[Relationships/Familial/Vertical/Father|Father]]
+
 `Professions:` %%Favorite First%%
 - [[Head of Security]]
 

@@ -16,9 +16,11 @@ creation date: 2024-01-24 20:35
 `Current Legal Name:` Melodious [[Philips]]
 `Previous Legal Names:`
 - Melodious `On:` 0 [[01-01]]
+
 `Preferred Name:` Melody
 `Aliases:`
 - Melody
+
 `Birth Date:` 46 [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -29,6 +31,7 @@ creation date: 2024-01-24 20:35
 - [[Kiera]] `How:` [[Step Daughter]]
 - [[Monty]] `How:` [[Step Sister]]
 - [[Alexia]] `How:` [[Step Sister]]
+
 `Professions:` %%Favorite First%%
 - [[Epistemologist]]
 - [[Medical Doctor]]

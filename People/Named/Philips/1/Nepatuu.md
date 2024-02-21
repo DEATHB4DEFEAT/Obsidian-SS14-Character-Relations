@@ -18,6 +18,7 @@ creation date: 2024-01-25 22:24
 `Preferred Name:` Nepatuu
 `Aliases:`
 - Neetzara
+
 `Birth Date:` 38 [[01-01]]
 `Birth Location:` N/A
 `Death Date:` N/A
@@ -29,6 +30,7 @@ creation date: 2024-01-25 22:24
 - [[Banalz]] `How:` [[Brother]]
 - [[Deven]] `How:` [[Brother]]
 - [[Eidolon]] `How:` [[Step Brother]]
+
 `Professions:` N/A %%Favorite First%%
 
 ## Description
