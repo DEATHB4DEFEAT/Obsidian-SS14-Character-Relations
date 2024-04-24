@@ -80,8 +80,6 @@ The fact is most times of the day the small abilities one might have are nice, b
 Sure, a Shadowkin could dim the nearby lights, but at the same time the Shadowkin could also just flick the light switch.
 However, it can sometimes happen that when a Shadowkin slept in and needs to get to work quickly, they might just teleport to work.
 Some people might be overly wary of Shadowkin, some might be drawn towards Shadowkin, just like any thing.
-Many Shadowkin are used to not wearing clothes, which can lead to some awkward situations, but it's not much different than the other furred species who have been around much longer.
-Most employers will require a uniform or simply casual wear be worn though to avoid unhappy customers unless the employee is never seen, but it's likely even the unseen will have to wear clothes on the job.
 
 ### %%[color=#a88b5e]%%Language%%[/color]%%
 
