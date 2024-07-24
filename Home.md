@@ -16,3 +16,6 @@ The original point of this was to make a cool graph of all the connections betwe
 You can view this graph via Obsidian's "Open graph view" or the web export's graph view in the top right.
 The version of the web export plugin I'm using doesn't support exporting colors for the graph yet.
 If you got this from GitHub and are viewing from Obsidian you can see it correctly.
+
+If you want to look around the website, there are panels on the left and right, they may be closed if on mobile.
+The left has all documents, and the right has the graph and outline of the current document.
