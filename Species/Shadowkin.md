@@ -76,7 +76,8 @@ After this, those systems realized that Shadowkin were a sentient species, and d
 
 ### %%[color=#a88b5e]%%The Typical Experience%%[/color]%%
 
-Most times, life is pretty normal. A Shadowkin can have a job, go to the job to work, then spend time off with friends.
+Most times, life is pretty normal.
+A Shadowkin can have a job, go to the job to work, then spend time off with friends.
 The fact is most times of the day the small abilities one might have are nice, but not very useful.
 Sure, a Shadowkin could dim the nearby lights, but at the same time the Shadowkin could also just flick the light switch.
 However, it can sometimes happen that when a Shadowkin slept in and needs to get to work quickly, they might just teleport to work.
@@ -168,7 +169,8 @@ They can also Empathically sense the energy of others nearby and can estimate ho
 ### %%[color=#a88b5e]%%Shadowkin Abilities%%[/color]%%
 
 Shadowkin have a few abilities.
-They can teleport short distances, requiring a small amount of energy, but they can do it quickly. %%Will be quick movement later, but this is true currently%%
+They can teleport short distances, requiring a small amount of energy, but they can do it quickly.
+%%Will be quick movement later, but this is true currently%%
 They can "teleport" to and from The Dark, requiring much more energy than teleportation.
 They can immediately fall into a deep sleep at any time.
 
@@ -191,8 +193,10 @@ The other dimension where Shadowkin are from.
 There are simple theories that the Dark and Bluespace are connected, but there aren't many important details about that.
 
 The Dark is a dimension where strange rules apply.
-For outsiders who somehow enter it, whatever they imagine being in there, they see there, if not too complex. %%Probably unreasonable to code, will change if I can't figure out something%%
-If an outsider comes with a willing Shadowkin they may see what the Shadowkin sees, being anything they imagine, or a reflection of the station. %%Might change this with the addition of the experimental suit%%
+For outsiders who somehow enter it, whatever they imagine being in there, they see there, if not too complex.
+%%Probably unreasonable to code, will change if I can't figure out something%%
+If an outsider comes with a willing Shadowkin they may see what the Shadowkin sees, being anything they imagine, or a reflection of the station.
+%%Might change this with the addition of the experimental suit%%
 
 #### %%[color=#a88b5e]%%Blackeyes%%[/color]%%
 
