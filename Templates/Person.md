@@ -21,11 +21,13 @@ summary:
 `Previous Legal Names:`
 - Jack Jackson Joe `On:` 6 [[06-16]]
 - Joe Jackson Jack `On:` 0 [[01-01]]
+
 `Preferred Name:` John
 
 `Aliases:`
 - M. Last
 - Dr. First
+
 `Birth Date:` 40 [[01-01]]
 
 `Birth Location:` N/A
@@ -38,6 +40,7 @@ summary:
 
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 - [[Jane Doe]] `How:` [[Married]]
+
 `Professions:` %%Favorite First%%
 - [[Blacksmith]]
 
