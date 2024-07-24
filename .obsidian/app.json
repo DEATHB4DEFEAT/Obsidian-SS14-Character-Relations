@@ -3,5 +3,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "livePreview": false
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "showInlineTitle": true
 }

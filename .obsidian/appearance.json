@@ -2,7 +2,9 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "translucency": false,
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Cascadia Mono",
-  "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL"
+  "interfaceFontFamily": "JetBrains Mono SemiBold",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono Light",
+  "nativeMenus": false,
+  "showViewHeader": false
 }
