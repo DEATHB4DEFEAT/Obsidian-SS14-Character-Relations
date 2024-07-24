@@ -2,6 +2,7 @@
 tags:
   - Location
 creation date: 2024-01-25 21:24
+summary:
 ---
 # NTRF-54
 

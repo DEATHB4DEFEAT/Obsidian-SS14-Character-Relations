@@ -2,6 +2,7 @@
 tags:
   - Person
 creation date: 2024-01-24 22:38
+summary:
 ---
 # CHOC-010
 

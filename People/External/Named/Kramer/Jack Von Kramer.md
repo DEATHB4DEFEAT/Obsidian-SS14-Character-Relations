@@ -2,6 +2,7 @@
 tags:
   - Person
 creation date: 2024-01-27 00:15
+summary:
 ---
 # Jack Von Kramer
 

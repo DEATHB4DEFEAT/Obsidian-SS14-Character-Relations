@@ -2,6 +2,7 @@
 tags:
   - Location
 creation date: 2024-01-25 20:40
+summary:
 ---
 # NTRF-226
 

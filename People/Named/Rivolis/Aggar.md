@@ -2,6 +2,7 @@
 tags:
   - Person
 creation date: 2024-03-12 19:38
+summary:
 ---
 # Aggar
 

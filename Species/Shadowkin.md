@@ -2,6 +2,7 @@
 tags:
   - Species
 creation date: 2024-01-27 00:08
+summary: Fluffy li'l guys
 ---
 # Shadowkin
 
@@ -110,6 +111,7 @@ Some believe Shadowkin are the result of absurd experimentation, though them bei
 Some believe Shadowkin are the result of an expedition crew that disappeared hundreds of years ago, even though the first Shadowkin sightings were long before that.
 Obviously, this expedition ship simply performed the only known successful time travel.
 
+summary:
 ---
 
 ### %%[color=#a88b5e]%%History%%[/color]%%

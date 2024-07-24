@@ -2,6 +2,7 @@
 tags:
   - Species
 creation date: 2024-01-27 00:11
+summary: Nothing notable
 ---
 # Human
 
