@@ -13,20 +13,29 @@ summary:
 ## Facts
 
 `Species:` [[Slime]]
+
 `Sex:` [[Female]] %%Sex for species with sexual dimorphism, Gender otherwise%%
+
 `Current Legal Name:` Kiera [[Philips]]
+
 `Previous Legal Names:`
 - Kiera [[Maya]]
 
 `Preferred Name:` Kiera
+
 `Aliases:`
 - Kira
 
 `Birth Date:` 28 [[01-01]]
+
 `Birth Location:` [[NTRF-226]]
+
 `Death Date:` N/A
+
 `Death Location:` N/A
+
 `Cause Of Death:` N/A
+
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 - [[Deven]] `How:` [[Married]]
 - 
