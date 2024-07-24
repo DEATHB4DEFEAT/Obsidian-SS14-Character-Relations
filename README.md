@@ -10,8 +10,8 @@ summary: This is meant for people on GitHub, remove this from the web export.
 
 If you want to host this or something similar for whatever reason, here's my NGINX config:
 
-```json
-// /etc/nginx/sites-enabled/characters
+```nginx
+# /etc/nginx/sites-enabled/characters
 
 server {
     server_name characters.simplemodbot.tk;
