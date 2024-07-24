@@ -46,7 +46,16 @@
   "exportPath": "/run/user/1000/kio-fuse-rofadv/smb/192.168.0.44/death-share/Code/character-tree",
   "filesToExport": [
     [
-      "all"
+      "Dates",
+      "Families",
+      "Locations",
+      "People",
+      "Professions",
+      "Relationships",
+      "Species",
+      "Templates",
+      "404.md",
+      "Home.md"
     ]
   ],
   "inlineCSS": false,
