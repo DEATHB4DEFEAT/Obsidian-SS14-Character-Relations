@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/run/user/1000/kio-fuse-rofadv/smb/192.168.0.44/death-share/Code/character-tree",
+  "exportPath": "/drives/death-share/Code/character-tree",
   "filesToExport": [
     [
       "Dates",
