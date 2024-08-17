@@ -8,7 +8,12 @@ summary:
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Robots/CHOC-010/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 

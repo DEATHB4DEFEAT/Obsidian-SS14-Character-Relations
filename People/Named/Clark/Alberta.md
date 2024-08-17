@@ -1,31 +1,35 @@
 ---
 tags:
   - Person
-creation date: 2024-07-23 23:08
+creation date: 2024-07-23 22:54
 summary:
 ---
-# Mim-Niima
+# Alberta Clark
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Named/Clark/Alberta/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 
-`Species:` [[Reptilian]]
+`Species:` [[Vulpkanin]]
 
 `Sex:` [[Female]] %%Sex for species with sexual dimorphism, Gender otherwise%%
 
-`Current Legal Name:` Mim-[[Niima]]
+`Current Legal Name:` Alberta [[Clark]]
 
 `Previous Legal Names:` N/A
 
-`Preferred Name:` Mimi
+`Preferred Name:` N/A
 
-`Aliases:`
-- Mimi
+`Aliases:` N/A
 
-`Birth Date:` 54 [[01-01]]
+`Birth Date:` 58 [[01-01]]
 
 `Birth Location:` N/A
 
@@ -37,7 +41,8 @@ summary:
 
 `Connected To:` N/A %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 
-`Professions:` N/A %%Favorite First%%
+`Professions:` %%Favorite First%%
+- [[Epistemologist]]
 
 ## Description
 

@@ -8,7 +8,12 @@ summary:
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Named/Philips/1/Banalz/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 

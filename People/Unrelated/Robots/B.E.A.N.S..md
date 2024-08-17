@@ -8,7 +8,12 @@ summary:
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Unrelated/Robots/B.E.A.N.S./SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 

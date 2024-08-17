@@ -8,7 +8,12 @@ summary:
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Named/Philips/1/Adopted/Eidolon/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 
@@ -44,7 +49,7 @@ summary:
 - [[Nepatuu]] `How:` [[Step Sister]]
 - [[Uxith]] `How:` [[Step Daughter]]
 - 
-- [[Jack Von Kramer]] `How:` [[Friend]]
+- [[Jack]] `How:` [[Friend]]
 
 `Professions:` %%Favorite First%%
 - [[Martial Artist]]

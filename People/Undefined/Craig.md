@@ -8,7 +8,12 @@ summary:
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Undefined/Craig/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 
@@ -37,7 +42,7 @@ summary:
 
 `Connected To:` %%Chronological -> Alphabetical - Significant -> Familial -> Generic%%
 - [[Kiera]] `How:` [[Friend]]
-- [[Jack Von Kramer]] `How:` [[Friend]]
+- [[Jack]] `How:` [[Friend]]
 
 `Professions:` %%Favorite First%%
 - [[Central Command Official]]

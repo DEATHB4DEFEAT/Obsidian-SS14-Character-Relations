@@ -2,13 +2,19 @@
 tags:
   - Person
 creation date: 2024-01-25 22:17
-summary:
+summary: 
+title: Guadelupé
 ---
 # Guadelupé
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Named/Maya/1/Adopted/Guadelupe/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 

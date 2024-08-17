@@ -8,7 +8,12 @@ summary:
 
 ## Photos
 
-%%PLACEHOLDER%%
+```img-gallery
+path: Media/People/Named/Maya/Cryen/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 
@@ -35,7 +40,7 @@ summary:
 `Cause Of Death:` N/A
 
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
-- [[Guadelupé]] `How:` [[Step Father]]
+- [[Guadelupe]] `How:` [[Step Father]]
 - [[Kiera]] `How:` [[Step Father]]
 
 `Professions:` %%Favorite First%%

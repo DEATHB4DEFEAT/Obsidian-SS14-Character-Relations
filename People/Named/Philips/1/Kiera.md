@@ -48,13 +48,13 @@ sort: asc
 `Connected To:` %%Chronological -> Alphabetical -- Significant -> Familial -> Generic%%
 - [[Deven]] `How:` [[Married]]
 - 
-- [[Guadelupé]] `How:` [[Step Sister]]
+- [[Guadelupe]] `How:` [[Step Sister]]
 - [[Melody]] `How:` [[Step Mother]]
 - [[Monty]] `How:` [[Step Mother]]
 - [[Alexia]] `How:` [[Step Mother]]
 - 
 - [[CHOC-010]] `How:` [[Friend]]
-- [[Jack Von Kramer]] `How:` [[Friend]]
+- [[Jack]] `How:` [[Friend]]
 - [[Craig]] `How:` [[Friend]]
 
 `Professions:` %%Favorite First%%
