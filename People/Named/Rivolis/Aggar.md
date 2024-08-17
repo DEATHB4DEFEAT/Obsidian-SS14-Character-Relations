@@ -8,10 +8,10 @@ summary:
 
 ## Photos
 
-![[Sheet-1-South.png]]
-![[Sheet-2-North.png]]
-![[Sheet-4-West.png]]
-![[Sheet-3-East.png]]
+![[Sheet1South.png]]
+![[Sheet2North.png]]
+![[Sheet3West.png]]
+![[Sheet4East.png]]
 
 ## Facts
 

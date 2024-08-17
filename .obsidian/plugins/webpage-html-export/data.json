@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": true,
   "inlineAssets": false,
-  "includePluginCSS": "link-favicon\nobsidian-list-callouts",
+  "includePluginCSS": "",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
