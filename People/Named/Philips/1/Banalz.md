@@ -4,7 +4,7 @@ tags:
 creation date: 2024-01-25 22:46
 summary:
 ---
-# Banalz
+# Banalz-Beewos Philips
 
 ## Photos
 
