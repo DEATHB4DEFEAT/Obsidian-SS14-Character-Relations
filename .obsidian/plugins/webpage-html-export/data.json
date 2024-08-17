@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": true,
   "inlineAssets": false,
-  "includePluginCSS": "",
+  "includePluginCSS": "link-favicon\nobsidian-list-callouts",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -49,11 +49,11 @@
       "Dates",
       "Families",
       "Locations",
+      "Media",
       "People",
       "Professions",
       "Relationships",
       "Species",
-      "Templates",
       "404.md",
       "Home.md"
     ]
