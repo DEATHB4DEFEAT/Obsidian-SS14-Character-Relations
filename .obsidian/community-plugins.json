@@ -4,5 +4,6 @@
   "obsidian-git",
   "templater-obsidian",
   "obsidian-regex-replace",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-list-callouts"
 ]
