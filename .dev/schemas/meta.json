@@ -1,0 +1,40 @@
+{
+    "type": "object",
+    "properties": {
+        "defaults": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "upscale_factor": {
+                    "type": "integer",
+                    "default": 2
+                },
+                "upscale_method": {
+                    "type": "string",
+                    "default": "BOX"
+                }
+            }
+        },
+        "images": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "path": {
+                        "type": "string",
+                        "required": true,
+                        "examples": [ "image.png" ]
+                    },
+                    "upscale_factor": {
+                        "type": "integer",
+                        "examples": [ 2, 4, 8, 16, 32 ]
+                    },
+                    "upscale_method": {
+                        "type": "string",
+                        "examples": [ "BOX", "BICUBIC", "NEAREST" ]
+                    }
+                }
+            }
+        }
+    }
+}
