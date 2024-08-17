@@ -1,0 +1,20 @@
+{
+    "defaults": {
+        "upscale_factor": 16,
+        "upscale_method": "BOX"
+    },
+    "images": [
+        {
+            "path": "1South.png"
+        },
+        {
+            "path": "2North.png"
+        },
+        {
+            "path": "3West.png"
+        },
+        {
+            "path": "4East.png"
+        }
+    ]
+}
