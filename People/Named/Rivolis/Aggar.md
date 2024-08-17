@@ -6,9 +6,12 @@ summary:
 ---
 # Aggar
 
-## Photo
+## Photos
 
-%%PLACEHOLDER%%
+![[Sheet-1-South.png]]
+![[Sheet-2-North.png]]
+![[Sheet-4-West.png]]
+![[Sheet-3-East.png]]
 
 ## Facts
 

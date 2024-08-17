@@ -6,7 +6,7 @@ summary:
 ---
 # Alexia
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

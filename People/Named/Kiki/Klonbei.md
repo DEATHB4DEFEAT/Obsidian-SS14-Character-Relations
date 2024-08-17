@@ -6,7 +6,7 @@ summary:
 ---
 # Klonbei
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

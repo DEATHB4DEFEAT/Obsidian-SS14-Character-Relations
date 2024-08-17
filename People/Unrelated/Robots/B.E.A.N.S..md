@@ -6,7 +6,7 @@ summary:
 ---
 # B.E.A.N.S.
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

@@ -6,7 +6,7 @@ summary:
 ---
 # Banalz
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

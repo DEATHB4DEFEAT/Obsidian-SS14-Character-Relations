@@ -6,7 +6,7 @@ summary:
 ---
 # Eidolon
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

@@ -6,7 +6,7 @@ summary:
 ---
 # Jack Von Kramer
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

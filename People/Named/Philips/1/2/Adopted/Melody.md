@@ -6,7 +6,7 @@ summary:
 ---
 # Melody
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

@@ -6,9 +6,16 @@ summary:
 ---
 # Kiera
 
-## Photo
+## Photos
 
-%%PLACEHOLDER%%
+
+> [!WARNING] Outdated Information
+> This set of images is not accurate and needs to be updated.
+
+![[Media/People/Named/Philips/1/Kiera/Sheet-1-South.png]]
+![[Media/People/Named/Philips/1/Kiera/Sheet-2-North.png]]
+![[Sheet-3-West.png]]
+![[Sheet-4-East.png]]
 
 ## Facts
 

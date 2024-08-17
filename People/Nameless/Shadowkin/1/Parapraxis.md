@@ -6,7 +6,7 @@ summary:
 ---
 # Parapraxis
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

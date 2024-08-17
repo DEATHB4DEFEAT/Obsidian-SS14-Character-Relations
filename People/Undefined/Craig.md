@@ -6,7 +6,7 @@ summary:
 ---
 # Craig
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

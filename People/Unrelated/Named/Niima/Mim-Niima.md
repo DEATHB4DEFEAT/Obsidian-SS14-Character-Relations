@@ -6,7 +6,7 @@ summary:
 ---
 # Mim-Niima
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

@@ -6,7 +6,7 @@ summary:
 ---
 # Jin
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

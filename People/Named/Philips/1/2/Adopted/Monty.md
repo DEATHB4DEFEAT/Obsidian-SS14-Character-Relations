@@ -6,7 +6,7 @@ summary:
 ---
 # Monty
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

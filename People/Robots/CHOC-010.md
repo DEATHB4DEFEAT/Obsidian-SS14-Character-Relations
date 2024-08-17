@@ -6,7 +6,7 @@ summary:
 ---
 # CHOC-010
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

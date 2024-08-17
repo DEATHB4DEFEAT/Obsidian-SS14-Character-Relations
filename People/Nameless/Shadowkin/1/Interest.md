@@ -6,7 +6,7 @@ summary:
 ---
 # Interest
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

@@ -6,7 +6,7 @@ summary:
 ---
 # <% tp.file.title %>
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

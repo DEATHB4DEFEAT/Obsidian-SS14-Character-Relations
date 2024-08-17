@@ -6,7 +6,7 @@ summary:
 ---
 # Cryen
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

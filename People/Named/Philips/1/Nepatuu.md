@@ -6,7 +6,7 @@ summary:
 ---
 # Nepatuu
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

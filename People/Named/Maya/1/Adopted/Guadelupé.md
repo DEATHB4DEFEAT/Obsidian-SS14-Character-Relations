@@ -6,7 +6,7 @@ summary:
 ---
 # Guadelupé
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

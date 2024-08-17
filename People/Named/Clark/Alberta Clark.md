@@ -6,7 +6,7 @@ summary:
 ---
 # Alberta Clark
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

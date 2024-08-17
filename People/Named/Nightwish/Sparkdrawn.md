@@ -6,7 +6,7 @@ summary:
 ---
 # Sparkdrawn
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

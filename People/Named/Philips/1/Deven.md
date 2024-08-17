@@ -6,7 +6,7 @@ summary:
 ---
 # Deven
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 

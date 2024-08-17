@@ -6,7 +6,7 @@ summary:
 ---
 # Fear
 
-## Photo
+## Photos
 
 %%PLACEHOLDER%%
 
