@@ -1,16 +1,19 @@
 {
-  "settingsVersion": "1.8.01",
+  "settingsVersion": "1.8.1-2b",
   "makeOfflineCompatible": true,
   "inlineAssets": false,
-  "includePluginCSS": "",
+  "includePluginCSS": [
+    ""
+  ],
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
   "faviconPath": "",
   "documentWidth": "40em",
-  "sidebarWidth": "20em",
+  "sidebarWidth": "30em",
   "minOutlineCollapse": 2,
   "startOutlineCollapsed": false,
+  "relativeOutlineLinks": false,
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
@@ -57,6 +60,15 @@
       "404.md",
       "Home.md"
     ]
+  ],
+  "filePickerBlacklist": [
+    "(^|\\/)node_modules\\/",
+    "(^|\\/)dist\\/",
+    "(^|\\/)dist-ssr\\/",
+    "(^|\\/)\\.vscode\\/"
+  ],
+  "filePickerWhitelist": [
+    "\\.\\w+$"
   ],
   "inlineCSS": false,
   "inlineJS": false,
