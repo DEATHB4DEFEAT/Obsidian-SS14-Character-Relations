@@ -12,10 +12,12 @@ summary:
 > [!WARNING] Outdated Information
 > This set of images is not accurate and needs to be updated.
 
-![[Media/People/Named/Philips/1/Kiera/Sheet1South.png]]
-![[Media/People/Named/Philips/1/Kiera/Sheet2North.png]]
-![[Media/People/Named/Philips/1/Kiera/Sheet3West.png]]
-![[Media/People/Named/Philips/1/Kiera/Sheet4East.png]]
+```img-gallery
+path: Media/People/Named/Philips/1/Kiera/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 

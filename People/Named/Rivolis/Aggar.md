@@ -8,10 +8,12 @@ summary:
 
 ## Photos
 
-![[Sheet1South.png]]
-![[Sheet2North.png]]
-![[Sheet3West.png]]
-![[Sheet4East.png]]
+```img-gallery
+path: Media/People/Named/Rivolis/Aggar/SpriteSheet
+gutter: 0
+sortby: name
+sort: asc
+```
 
 ## Facts
 

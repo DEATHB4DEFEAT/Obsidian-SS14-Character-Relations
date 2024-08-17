@@ -2,3 +2,7 @@
 .obsidian/workspace.json
 .obsidian/workspaces.json
 .trash
+.direnv
+__pycache__
+*.pyc
+.venv
