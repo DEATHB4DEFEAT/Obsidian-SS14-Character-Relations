@@ -39,7 +39,7 @@
     "tagOptions": {
       "featureId": "tags",
       "enabled": true,
-      "displayTitle": "",
+      "displayTitle": "Tags",
       "featurePlacement": {
         "selector": ".header .data-bar",
         "type": "end"
@@ -56,7 +56,7 @@
     "aliasOptions": {
       "featureId": "aliases",
       "enabled": true,
-      "displayTitle": "",
+      "displayTitle": "Aliases",
       "featurePlacement": {
         "selector": ".header .data-bar",
         "type": "start"
